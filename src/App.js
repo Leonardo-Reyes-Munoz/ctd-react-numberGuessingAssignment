@@ -1,6 +1,6 @@
-import React, { Component } from "react";
-import NumberGuessingGame from "./NumberGuessingGame";
-import "./App.css";
+import React, { Component } from 'react';
+import NumberGuessingGame from './NumberGuessingGame';
+import './App.css';
 
 class App extends Component {
   render() {
@@ -13,3 +13,5 @@ class App extends Component {
 }
 
 export default App;
+
+// no changes
